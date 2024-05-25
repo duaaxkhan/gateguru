@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.892dfaa9.css",
+    "main.js": "/static/js/main.dffa1012.js",
+    "static/js/498.68d1cc8f.chunk.js": "/static/js/498.68d1cc8f.chunk.js",
+    "static/js/703.df3113eb.chunk.js": "/static/js/703.df3113eb.chunk.js",
+    "static/js/598.1416e1ea.chunk.js": "/static/js/598.1416e1ea.chunk.js",
+    "static/media/vi.mp4": "/static/media/vi.9c66be06f999609606ac.mp4",
+    "static/media/gait.mp4": "/static/media/gait.ffe76eed1239761b5af9.mp4",
+    "static/media/cam.jpg": "/static/media/cam.82d558013d82e6b7ca6b.jpg",
+    "static/media/report.jpg": "/static/media/report.b04fc0596ace9992026b.jpg",
+    "static/media/code.jpg": "/static/media/code.f13ad3903df0828a4f92.jpg",
+    "static/media/me.JPG": "/static/media/me.8583ee7558ad8760591a.JPG",
+    "static/media/gf.jpg": "/static/media/gf.0c62ecf8822b156f78e7.jpg",
+    "static/media/bf.jpg": "/static/media/bf.bdbf231bd6b7565f4409.jpg",
+    "static/media/parkinson.png": "/static/media/parkinson.e974e5ff7769f691a916.png",
+    "static/media/walk.png": "/static/media/walk.d9b205af29da84abece9.png",
+    "static/media/foot.png": "/static/media/foot.77757bd019438e74007a.png",
+    "static/media/footprint.png": "/static/media/footprint.494ca59c694f694f40d3.png",
+    "static/media/walking.png": "/static/media/walking.c4d536a39cc9f3479db7.png",
+    "static/media/shoes.png": "/static/media/shoes.1ee660a24e251581fbce.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.892dfaa9.css.map": "/static/css/main.892dfaa9.css.map",
+    "main.dffa1012.js.map": "/static/js/main.dffa1012.js.map",
+    "498.68d1cc8f.chunk.js.map": "/static/js/498.68d1cc8f.chunk.js.map",
+    "703.df3113eb.chunk.js.map": "/static/js/703.df3113eb.chunk.js.map",
+    "598.1416e1ea.chunk.js.map": "/static/js/598.1416e1ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.892dfaa9.css",
+    "static/js/main.dffa1012.js"
+  ]
+}
